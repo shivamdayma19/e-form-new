@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: unset;
+}
+
+body{
+    padding: 10px;
+}
+
+.form-container{
+    width: 100%;
+    max-width: 430px;
+    min-height: 200px;
+    background-color: #050505;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 10px;
+    font-family: "Poppins", sans-serif;
+}
+
+.first-heading{
+    text-align: center;
+    color: rgb(23, 155, 111);
+    
+
+}
+
+.sub-heading{
+    margin-top: px;
+    color: #c5c1c1;
+    text-align: center;
+    font-size: 12px;
+    padding: 12px;
+}
+
+.request-form{
+    background-color: #000;
+    border-radius: 10px;
+}
+
+.border{
+    border: 1px solid #3c3838;
+    margin: 10px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+
+} 
+
+.inner-heading{
+    margin-top: 10px;
+    color:rgb(14, 134, 94);
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+}
+
+.inner-sub-heading{
+    color: #d6d5d5;
+    font-size: 10px;
+    
+    text-align: center;
+    margin: -15px;
+}
+
+.field-group{
+    color: #fff;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px;
+    
+    
+}
+
+.bg-in-red{
+    background-color: red;
+    padding: 4px;
+    border-radius: 20px;
+    font-size: 10px;
+
+}
+    
+.label-wr{
+    padding: 10px;
+    
+    }
+
+.label{
+    color: #fff;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 10px;
+    display: block;
+}
+
+.input-field{
+    background-color: #201d1d;
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    
+
+}
+
+.textarea{
+    background-color: #201d1d;
+    width: 100%;
+    min-height: 100px;
+    padding: 10px;
+    color: #c5c3c3;
+    font-family: "Poppins", sans-serif; ;
+}
+
+.checkbox{
+    color: #d3d2d2;
+    display: block;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    padding-left: 10px;
+    
+    
+
+    }
+
+.submit {
+    margin-top: 10px;
+    padding: 10px;
+    outline: unset;
+    width: 100%;
+    color: #010101;
+    border-radius: 5px;
+    /* background-color: rgb(23, 155, 111); */
+}    
